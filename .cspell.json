@@ -1,12 +1,22 @@
 {
   "language": "en",
   "words": [
+
+   
     "HackYourFutureBelgium",
     "Inna",
     "penas",
     "socio",
     "HackYourFuture",
     "innabio"
+    "Andrii",
+    "andriivambio",
+    "HackYourFuture",
+    "HackYourFutureBelgium",
+    "penas",
+    "socio",
+    "Vlasiuk"
+
   ],
   "ignorePaths": [
     "node_modules/**",
