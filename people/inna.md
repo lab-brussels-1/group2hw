@@ -15,4 +15,6 @@ Italy :it: on the island Sicily . In 2019 i moved to Brussels.
 
 -Learn programming .
 
--Visit Ukraine -Visit USA .
+-Visit Ukraine .
+
+-Visit USA .
