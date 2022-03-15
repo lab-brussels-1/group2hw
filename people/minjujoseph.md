@@ -32,6 +32,7 @@ ever seen.
 - Baking 🍰
 - Indoor gardening 🎋
 - Video editing
+- Dancing
 
 ---
 
