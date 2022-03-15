@@ -2,14 +2,18 @@
   "language": "en",
   "words": [
     "Andrii",
-    "Inna",
     "andriivambio",
+    "Berryman",
+    "Coldplay",
+    "Dragonite",
     "HackYourFuture",
     "HackYourFutureBelgium",
+    "Inna",
+    "krug",
     "penas",
     "socio",
-    "Vlasiuk",
-    "Dragonite"
+    "Splatoon",
+    "Vlasiuk"
   ],
   "ignorePaths": [
     "node_modules/**",
