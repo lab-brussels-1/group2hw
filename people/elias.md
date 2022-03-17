@@ -33,4 +33,4 @@ Hollow Knight
 
 Super Smash Bros Ultimate
 
-![Photo](/assets/smbu.jpg)
+![Photo](/assets/super.jpg)
