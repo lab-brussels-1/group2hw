@@ -1,4 +1,14 @@
-# (project name)
+# Group 2
+
+## **The members of Group 2 are**
+ - [@Andriivam](/people/andriivam.md)
+ - [@Cristobal](/people/cristobal.md)
+ - [@Hadoan](/people/hadoan.md)
+ - [@Inna](/people/inna.md)
+ - [@Minjupgeorge](/people/minjujoseph.md)
+ - [@RicardoPena](/people/ricardopena.md)
+
+
 
 <!-- describe your project -->
 
