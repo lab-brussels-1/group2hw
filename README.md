@@ -1,4 +1,28 @@
-# (project name)
+# Group 2
+
+## **The members of Group 2 are**
+
+- Ali
+- [@Andriivam](/people/andriivam.md)
+- [@Cristobal](/people/cristobal.md)
+- Elias
+- [@Hadoan](/people/hadoan.md)
+- [@Inna](/people/inna.md)
+- [@Minjupgeorge](/people/minjujoseph.md)
+- [@RicardoPena](/people/ricardopena.md)
+- Swapna
+
+|      Name      | Nationality | Place of stay | Favorite Movie | Favorite Hobby |
+| :------------: | :---------: | :-----------: | :------------: | :------------: |
+| Andrii Vlasiuk |             |               |                |                |
+|      Ali       |             |               |                |                |
+|   Cristobal    | El Salvador |    Brugge     |     Avatar     |  Metal music   |
+|     Elias      |             |               |                |                |
+|     Hadoan     | Vietnamese  |    Leuven     |    Belfast     |    Singing     |
+|      Inna      |             |   Brussels    |                |                |
+|  MinjuPGeorge  |   Indian    |   Brussels    |    Fashion     |   Gardening    |
+|  RicardoPena   | El Salvador |    Antwerp    |  The pianist   |    Cooking     |
+|     Swapna     |   Indian    |   Brussels    |      Home      |   Travelling   |
 
 <!-- describe your project -->
 
