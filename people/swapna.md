@@ -1,3 +1,3 @@
-# Hi, this is Swapna
+# Hi, this is swapna
 
-## Some interesting facts about me.
+## Some interesting facts about me
