@@ -32,35 +32,16 @@
     "thrissur",
     "Thrissur",
     "Vlasiuk",
-<<<<<<< HEAD
-    "Dragonite",
-    "Coldplay",
-    "Splatoon",
-    "krug",
-    "berryman",
-    "Hochiminh",
-    "Leuven",
-    "Linkedin",
-    "Minju",
-    "aboutme",
-    "reachme",
-    "Thrissur",
-    "thrissur",
-    "pooram",
-    "festivalof",
-    "Pooram",
-    "Evere",
-    "Reachme",
-    "gmail"
-=======
->>>>>>> 27592a7dc6a1c3adb2b684a145114686d5a1dd4b
     "acquintances",
     "minjujoseph",
     "ricardopena",
     "Swapna",
     "Brusells",
     "Vogon",
-    "alihaidermalik"
+    "alihaidermalik",
+    "Coldplay",
+    "coldplay",
+    "Splatoon"
   ],
   "ignorePaths": [
     "node_modules/**",
