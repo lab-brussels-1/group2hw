@@ -29,8 +29,7 @@
     "reachme",
     "Reachme",
     "socio",
-    "thrissur",
-    "Thrissur"
+    "thrissur"
   ],
   "ignorePaths": [
     "node_modules/**",
