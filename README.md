@@ -1,4 +1,32 @@
-# (project name)
+# Group 2
+
+![photo](imagesgroup/Screenshot_2022-03-16_at_20.44.31.png)
+
+## **The members of Group 2 are**
+
+- Ali
+- [@Andriivam](/people/andriivam.md) ![photo](imagesgroup/IMG_4078.jpg)
+- [@Cristobal](/people/cristobal.md)
+  ![photo](imagesgroup/Screenshot_2022-03-16_at_21.13.19.png)
+- Elias
+- [@Hadoan](/people/hadoan.md) ![photo](imagesgroup/IMG_20220220_180930.jpg)
+- [@Inna](/people/inna.md) ![photo](imagesgroup/IMG_2971.jpeg)
+- [@Minjupgeorge](/people/minjujoseph.md)
+- [@RicardoPena](/people/ricardopena.md) ![photo](imagesgroup/rick.jpeg)
+- Swapna
+
+|      Name      | Nationality | Place of stay |   Favorite Movie    | Favorite Hobby |
+| :------------: | :---------: | :-----------: | :-----------------: | :------------: |
+| Andrii Vlasiuk |  Ukrainian  |   Brusells    | Catch me if you can |    Fishing     |
+|                |
+|      Ali       |             |               |                     |                |
+|   Cristobal    | El Salvador |    Bruges     |       Avatar        |  Metal music   |
+|     Elias      |             |               |                     |                |
+|     Hadoan     | Vietnamese  |    Leuven     |       Belfast       |    Singing     |
+|      Inna      |  Ukrainian  |   Brussels    |   The green mile    |    Reading     |
+|  MinjuPGeorge  |   Indian    |   Brussels    |       Fashion       |   Gardening    |
+|  RicardoPena   | El Salvador |    Antwerp    |     The pianist     |    Cooking     |
+|     Swapna     |   Indian    |   Brussels    |        Home         |   Travelling   |
 
 <!-- describe your project -->
 
