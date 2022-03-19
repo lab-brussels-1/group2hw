@@ -38,7 +38,9 @@
     "Swapna",
     "Brusells",
     "Vogon",
-    "alihaidermalik"
+    "alihaidermalik",
+    "Bokeh",
+    "Amélie"
   ],
   "ignorePaths": [
     "node_modules/**",

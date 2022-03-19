@@ -4,7 +4,7 @@
 
 ## **The members of Group 2 are**
 
-- Ali
+- Ali ![photo](imagesgroup/IMG-20200910-WA0057.jpg)
 - [@Andriivam](/people/andriivam.md) ![photo](imagesgroup/IMG_4078.jpg)
 - [@Cristobal](/people/cristobal.md)
   ![photo](imagesgroup/Screenshot_2022-03-16_at_21.13.19.png)
@@ -12,6 +12,7 @@
 - [@Hadoan](/people/hadoan.md) ![photo](imagesgroup/IMG_20220220_180930.jpg)
 - [@Inna](/people/inna.md) ![photo](imagesgroup/IMG_2971.jpeg)
 - [@Minjupgeorge](/people/minjujoseph.md)
+  ![photo](imagesgroup/IMG20211121124400_Bokeh.jpg)
 - [@RicardoPena](/people/ricardopena.md) ![photo](imagesgroup/rick.jpeg)
 - Swapna
 
@@ -19,7 +20,7 @@
 | :------------: | :---------: | :-----------: | :-----------------: | :------------: |
 | Andrii Vlasiuk |  Ukrainian  |   Brusells    | Catch me if you can |    Fishing     |
 |                |
-|      Ali       |             |               |                     |                |
+|      Ali       |   Russian   |   Brusells    |       Amélie        |    Reading     |
 |   Cristobal    | El Salvador |    Bruges     |       Avatar        |  Metal music   |
 |     Elias      |             |               |                     |                |
 |     Hadoan     | Vietnamese  |    Leuven     |       Belfast       |    Singing     |
