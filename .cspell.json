@@ -31,17 +31,7 @@
     "socio",
     "thrissur",
     "Thrissur",
-    "Vlasiuk",
-    "acquintances",
-    "minjujoseph",
-    "ricardopena",
-    "Swapna",
-    "Brusells",
-    "Vogon",
-    "alihaidermalik",
-    "Coldplay",
-    "coldplay",
-    "Splatoon"
+    "Vlasiuk"
   ],
   "ignorePaths": [
     "node_modules/**",
