@@ -18,9 +18,9 @@
 |      Name      | Nationality | Place of stay |   Favorite Movie    | Favorite Hobby |
 | :------------: | :---------: | :-----------: | :-----------------: | :------------: |
 | Andrii Vlasiuk |  Ukrainian  |   Brusells    | Catch me if you can |    Fishing     |
-|      Ali       |  Russian    |   Brusells    |    Amélie           |   Reading      |
-|   Cristobal    | El Salvador |    Bruges     |       Avatar        |  Sporting      |
-|     Elias      | Salvadorian |  Jodoigne     |     Knowing         |   Drawing      |
+|      Ali       |   Russian   |   Brusells    |       Amélie        |    Reading     |
+|   Cristobal    | El Salvador |    Bruges     |       Avatar        |    Sporting    |
+|     Elias      | Salvadorian |   Jodoigne    |       Knowing       |    Drawing     |
 |     Hadoan     | Vietnamese  |    Leuven     |       Belfast       |    Singing     |
 |      Inna      |  Ukrainian  |   Brussels    |   The green mile    |    Reading     |
 |  MinjuPGeorge  |   Indian    |   Brussels    |       Fashion       |   Gardening    |
