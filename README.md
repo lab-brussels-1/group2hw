@@ -4,7 +4,7 @@
 
 ## **The members of Group 2 are**
 
-- Ali
+- Ali ![alt](imagesgroup/ali.jpg)
 - [@Andriivam](/people/andriivam.md) ![photo](imagesgroup/IMG_4078.jpg)
 - [@Cristobal](/people/cristobal.md)
   ![photo](imagesgroup/Screenshot_2022-03-16_at_21.13.19.png)
