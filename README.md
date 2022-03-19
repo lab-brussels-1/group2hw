@@ -11,17 +11,16 @@
 - Elias
 - [@Hadoan](/people/hadoan.md) ![photo](imagesgroup/IMG_20220220_180930.jpg)
 - [@Inna](/people/inna.md) ![photo](imagesgroup/IMG_2971.jpeg)
-- [@Minjupgeorge](/people/minjujoseph.md)
+- [@Minjupgeorge](/people/minjujoseph.md)![photo](imagesgroup/IMG20211121124400_Bokeh.jpg)
 - [@RicardoPena](/people/ricardopena.md) ![photo](imagesgroup/rick.jpeg)
 - Swapna
 
 |      Name      | Nationality | Place of stay |   Favorite Movie    | Favorite Hobby |
 | :------------: | :---------: | :-----------: | :-----------------: | :------------: |
 | Andrii Vlasiuk |  Ukrainian  |   Brusells    | Catch me if you can |    Fishing     |
-|                |
-|      Ali       |             |               |                     |                |
-|   Cristobal    | El Salvador |    Bruges     |       Avatar        |  Metal music   |
-|     Elias      |             |               |                     |                |
+|      Ali       |   Russian   |   Brusells    |       Amélie        |    Reading     |
+|   Cristobal    | El Salvador |    Bruges     |       Avatar        |    Sporting    |
+|     Elias      | Salvadorian |   Jodoigne    |       Knowing       |    Drawing     |
 |     Hadoan     | Vietnamese  |    Leuven     |       Belfast       |    Singing     |
 |      Inna      |  Ukrainian  |   Brussels    |   The green mile    |    Reading     |
 |  MinjuPGeorge  |   Indian    |   Brussels    |       Fashion       |   Gardening    |
