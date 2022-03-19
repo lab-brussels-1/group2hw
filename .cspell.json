@@ -30,16 +30,7 @@
     "Reachme",
     "socio",
     "thrissur",
-    "Thrissur",
-    "acquintances",
-    "minjujoseph",
-    "ricardopena",
-    "Swapna",
-    "Brusells",
-    "Vogon",
-    "alihaidermalik",
-    "Bokeh",
-    "Amélie"
+    "Thrissur"
   ],
   "ignorePaths": [
     "node_modules/**",
