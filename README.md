@@ -4,16 +4,17 @@
 
 ## **The members of Group 2 are**
 
-- Ali ![photo](imagesgroup/IMG-20200910-WA0057.jpg)
-- [@Andriivam](/people/andriivam.md) ![photo](imagesgroup/IMG_4078.jpg)
+- Ali ![alt](imagesgroup/IMG-20200910-WA0057.jpg)
+- [@Andriivam](/people/andriivam.md) ![alt](imagesgroup/IMG_4078.jpg)
 - [@Cristobal](/people/cristobal.md)
   ![photo](imagesgroup/Screenshot_2022-03-16_at_21.13.19.png)
 - Elias
-- [@Hadoan](/people/hadoan.md) ![photo](imagesgroup/IMG_20220220_180930.jpg)
-- [@Inna](/people/inna.md) ![photo](imagesgroup/IMG_2971.jpeg)
+- [@Hadoan](/people/hadoan.md) ![alt](imagesgroup/IMG_20220220_180930.jpg)
+- [@Inna](/people/inna.md) ![alt](imagesgroup/IMG_2971.jpeg)
+-
 - [@Minjupgeorge](/people/minjujoseph.md)
-  ![photo](imagesgroup/IMG20211121124400_Bokeh.jpg)
-- [@RicardoPena](/people/ricardopena.md) ![photo](imagesgroup/rick.jpeg)
+  ![alt](imagesgroup/IMG20211121124400.jpg)
+- [@RicardoPena](/people/ricardopena.md) ![alt](imagesgroup/rick.jpeg)
 - Swapna
 
 |      Name      | Nationality | Place of stay |   Favorite Movie    | Favorite Hobby |
