@@ -4,7 +4,7 @@
 
 ## **The members of Group 2 are**
 
-- Ali ![alt](imagesgroup/ali.jpg)
+- [@Ali](/people/ali.md) ![alt](imagesgroup/ali.jpg)
 - [@Andriivam](/people/andriivam.md) ![photo](imagesgroup/IMG_4078.jpg)
 - [@Cristobal](/people/cristobal.md)
   ![photo](imagesgroup/Screenshot_2022-03-16_at_21.13.19.png)
@@ -17,8 +17,8 @@
 
 |      Name      | Nationality | Place of stay |   Favorite Movie    | Favorite Hobby |
 | :------------: | :---------: | :-----------: | :-----------------: | :------------: |
-| Andrii Vlasiuk |  Ukrainian  |   Brusells    | Catch me if you can |    Fishing     |
-|      Ali       |   Russian   |   Brusells    |       Amélie        |    Reading     |
+| Andrii Vlasiuk |  Ukrainian  |   Brussels    | Catch me if you can |    Fishing     |
+|      Ali       |   Russian   |   Brussels    |       Amélie        |    Reading     |
 |   Cristobal    | El Salvador |    Bruges     |       Avatar        |    Sporting    |
 |     Elias      | Salvadorian |   Jodoigne    |       Knowing       |    Drawing     |
 |     Hadoan     | Vietnamese  |    Leuven     |       Belfast       |    Singing     |
